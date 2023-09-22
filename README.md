@@ -25,3 +25,6 @@ steps:
 `composer update`
 
 
+Endpoints documentation: 
+https://www.postman.com/material-geoscientist-16003396/workspace/sdk-marketing-cloud-ens/collection/27778481-7d3a6073-68a7-4ab0-88ab-ea24b9b9f85b?action=share&creator=27778481
+
