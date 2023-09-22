@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::namespace('Api')->group(function () {
     Route::prefix('mkc')->group(function () {
-        Route::prefix('public')->group(function () {
+        Route::prefix('v1')->group(function () {
 
             Route::get('ping', 'MkcController@responsePing');
 
